@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\aris\\IdeaProjects\\Kejar1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\aris\\.android\\build-cache\\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\aris\\IdeaProjects\\Kejar1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\aris\\.android\\build-cache\\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\aris\\IdeaProjects\\Kejar1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\aris\\.android\\build-cache\\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\aris\\IdeaProjects\\Kejar1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\aris\\.android\\build-cache\\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\aris\\IdeaProjects\\Kejar1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\aris\\.android\\build-cache\\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\aris\\IdeaProjects\\Kejar1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\aris\\.android\\build-cache\\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\aris\\IdeaProjects\\Kejar1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\aris\\.android\\build-cache\\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\aris\\IdeaProjects\\Kejar1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\aris\\.android\\build-cache\\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\aris\\IdeaProjects\\Kejar1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\aris\\.android\\build-cache\\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\aris\\IdeaProjects\\Kejar1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\aris\\.android\\build-cache\\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\aris\.android\build-cache\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\aris\.android\build-cache\c0aa81cc0c86029e6936658c6cc19f9cc1f297c4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\aris\.android\build-cache\f6caba4bb9220ba53de55470813a20b987845aef\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\aris\.android\build-cache\696e03ab98db1e3deb35b6c8b3d7fab948c16c79\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\aris\.android\build-cache\c29c50c672148896dd4a421521dfd0dffbb3bac8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\aris\.android\build-cache\3ad0084f5b8ed8127641ab6a1cd9445d33464840\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\aris\.android\build-cache\803d0880d27bde08096c63258efeab05a82cdbcd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\aris\.android\build-cache\63e0932c8bc7e15a3c348b50840e6d078b11eab8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\aris\.android\build-cache\f8b9dc45357a8f22a0e07191f928bc7b488096c8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\aris\.android\build-cache\9180e9f766865da195318c67344bda9d5f6ec080\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:8:13-45
+	android:supportsRtl
+		ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:10:13-39
+	android:roundIcon
+		ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:9:13-58
+	android:allowBackup
+		ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:6:13-39
+	android:icon
+		ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:7:13-47
+	android:theme
+		ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.example.aris.kejar1.Kejarawal
+ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:12:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\aris\.android\build-cache\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\aris\.android\build-cache\c0aa81cc0c86029e6936658c6cc19f9cc1f297c4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\aris\.android\build-cache\f6caba4bb9220ba53de55470813a20b987845aef\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\aris\.android\build-cache\696e03ab98db1e3deb35b6c8b3d7fab948c16c79\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\aris\.android\build-cache\c29c50c672148896dd4a421521dfd0dffbb3bac8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\aris\.android\build-cache\3ad0084f5b8ed8127641ab6a1cd9445d33464840\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\aris\.android\build-cache\803d0880d27bde08096c63258efeab05a82cdbcd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\aris\.android\build-cache\63e0932c8bc7e15a3c348b50840e6d078b11eab8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\aris\.android\build-cache\f8b9dc45357a8f22a0e07191f928bc7b488096c8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\aris\.android\build-cache\9180e9f766865da195318c67344bda9d5f6ec080\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\aris\.android\build-cache\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\aris\IdeaProjects\Kejar1\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\aris\.android\build-cache\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\aris\.android\build-cache\c0aa81cc0c86029e6936658c6cc19f9cc1f297c4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\aris\.android\build-cache\f6caba4bb9220ba53de55470813a20b987845aef\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\aris\.android\build-cache\696e03ab98db1e3deb35b6c8b3d7fab948c16c79\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\aris\.android\build-cache\c29c50c672148896dd4a421521dfd0dffbb3bac8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\aris\.android\build-cache\3ad0084f5b8ed8127641ab6a1cd9445d33464840\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\aris\.android\build-cache\803d0880d27bde08096c63258efeab05a82cdbcd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\aris\.android\build-cache\63e0932c8bc7e15a3c348b50840e6d078b11eab8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\aris\.android\build-cache\f8b9dc45357a8f22a0e07191f928bc7b488096c8\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\aris\.android\build-cache\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\aris\.android\build-cache\6de49f2ae1c95d08839a00e4bff3c9965b3205cb\output\AndroidManifest.xml:26:9-47
